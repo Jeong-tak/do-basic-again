@@ -1,0 +1,17 @@
+h1.cls-padding {
+    color: navy;
+    font-family: verdana;
+    font-size: 300%;
+    border: 2px solid powderblue;
+    padding: 30px;
+}
+
+h2.cls-margin {
+    font-family: 'Courier New', Courier, monospace;
+    border: 2px solid hotpink;
+    margin: 30px;
+}
+a.cls-link {
+    border: 1px solid black;
+    margin: 0 10px 0 0;
+}
